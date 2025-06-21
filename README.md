@@ -31,8 +31,7 @@ The project simulates real-world enterprise analytics practices, including stake
 
 - Monthly & regional sales trends  
 - Top product types by revenue  
-- KPI cards for revenue, customer count, transactions  
-- Currency-wise & market-based analysis  
+- KPI cards for revenue, customer count, transactions   
 
 ## 📂 Files Included
 
@@ -42,12 +41,6 @@ The project simulates real-world enterprise analytics practices, including stake
 | `Customer Scripts.sql` | Query to fetch all customers and counts |
 | `Market Script.sql` | Query for market names and codes |
 | `Transaction Scripts.sql` | Revenue insights, product performance, and filters |
-
-## 🚀 How to Use
-
-1. Clone this repo or download the files  
-2. Load the `.pbix` file in Power BI Desktop  
-3. Review SQL scripts for dataset generation  
 
 ## 📌 Outcomes
 
