@@ -18,26 +18,6 @@ Built using **SQL for data extraction**, **Power Query for ETL**, and **DAX for 
 
 The project simulates real-world enterprise analytics practices, including stakeholder planning, data discovery, and dashboard delivery. It serves as an excellent example of how modern data tools can be used to unlock business value and streamline decision-making processes.
 
-## 🗂 Project Structure
-
-```
-TechNova-Sales-Insights-Dashboard/
-│
-├── SQL_Scripts/
-│   ├── Customer Scripts.sql
-│   ├── Market Script.sql
-│   └── Transaction Scripts.sql
-│
-├── Assets/
-│   ├── Dashboard Screenshot 1.png
-│   ├── Dashboard Screenshot 2.png
-│  
-│
-├── TechNova_Dashboard.pbix
-├── README.md
-└── .gitignore
-```
-
 ## 🔧 Tools & Technologies Used
 
 - **Power BI** – Dashboard design & interactive visualizations  
